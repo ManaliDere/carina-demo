@@ -19,4 +19,4 @@ Generate Eclipse workspace using command:
 ```
 mvn clean eclipse:eclipse
 ```
-Hi using Jenkins
+Hi using Jenkins and git
